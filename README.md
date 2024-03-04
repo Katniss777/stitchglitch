@@ -1,6 +1,7 @@
 # [Katniss's Digital Portfolio - [2024]
 
-(avatar) [https://readyplayer.me/gallery/65e644b52358d3c3bd829b9f] 
+[avatar](https://readyplayer.me/gallery/65e644b52358d3c3bd829b9f)
+
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
 
